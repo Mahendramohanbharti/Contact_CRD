@@ -108,7 +108,7 @@ app.get('/delete-contact',function(req,res){
         return res.redirect('back')
 
     })
-
+    // Mahendra Mohan Bharti
     // let contactIndex=contactlist.findIndex(contact => contact.phone==phone);
 
     // if(contactIndex!=-1){
